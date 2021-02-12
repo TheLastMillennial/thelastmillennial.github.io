@@ -1,0 +1,15 @@
+body {
+  background-color: Black;
+  color: Gainsboro;
+}
+
+h1 {
+  color: Grey;
+  margin-left: 30px;
+}
+
+test {
+  text-align: center;
+  color: red;
+  margin-left: -20px;
+}
